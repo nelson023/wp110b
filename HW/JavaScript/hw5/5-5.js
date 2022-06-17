@@ -7,6 +7,6 @@ function Avg(Array)
 }
     return sum / ArrayLen;
 }
-var Array = [1, 5, 2, 3, 7];
+var Array = [1, 2, 3, 4, 5];
 var a = Avg(Array);
 console.log(a)
